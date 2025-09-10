@@ -1,9 +1,11 @@
 {
     "web_api": {
         "v1": {
+            "name": "WebAPI v1",
             "uri": "ponzu.server-on.net/api/v1/?from=github"
         },
         "v2": {
+            "name": "WebAPI v2",
             "uri": "ponzu.server-on.net/api/v2/"
         }
     }
