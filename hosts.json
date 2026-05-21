@@ -1,0 +1,14 @@
+{
+    "default": {
+        "name": "WebAPI v1",
+        "url": "https://ponzu.server-on.net/api/v1/?source=cdn"
+    },
+    "main-v1": {
+        "name": "WebAPI v1",
+        "url": "https://ponzu.server-on.net/api/v1/?source=cdn"
+    },
+    "main-v2": {
+        "name": "WebAPI v2",
+        "url": "https://ponzu.server-on.net/api/v2/?source=cdn"
+    }
+}
